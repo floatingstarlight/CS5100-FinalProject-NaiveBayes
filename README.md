@@ -1,6 +1,4 @@
 # CS5100-FinalProject-NaiveBayes
-NaiveBayes Related code
-
 This is the code for the final project of CS5100.
 In our project, we try to do sentiment analysis for the dataset of reddit & twitter comments.
 Specifically, this repo contains code for the Naive Bayes Model & its related experiments/variants/comparisions.
