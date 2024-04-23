@@ -12,6 +12,7 @@ Specifically, this repo contains code for the Naive Bayes Model & its related ex
 In addition, some variations are experiments on the manual implementation of NB model. This is also included in the ```naiveNB_base.py```.
 - Use unigram vs. Bigram during feature selection
 - Preprocessing variants:
+   - Unigram + all preprocessing 
    - Unigram + No preprocessing 
    - Unigram + Replace Abbrevations Words
    - Unigram + Remove stop words
