@@ -19,7 +19,7 @@ In addition, some variations are experiments on the manual implementation of NB 
    - Unigram + Lemmatization
    - Unigram + StemmingWords Remove
 
-**2.Built-in library:** MultinomialNB in sklearn library, code in ```multimonimalNB.py```
+**2.Built-in library:** MultinomialNB in sklearn library, code in ```multinomialNB.py```
 
 **3.Built-in library:** Linear SVC, code in ```LinearSVC.py```
 
